@@ -1,2 +1,2 @@
-Parallelization of ray traing algorithm using OpenMP <br/>
-[Ray-Tracing](https://github.com/Kams7/Ray-tracing)
+Parallelization of ray tracing algorithm using OpenMP <br/>
+(https://github.com/Kams7/Ray-tracing)
