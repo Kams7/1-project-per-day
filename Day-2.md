@@ -1,2 +1,2 @@
-Github page__
-(https://kams7.github.io/)
+Github page <br/>
+[kams7.gihub.io](https://kams7.github.io/)
